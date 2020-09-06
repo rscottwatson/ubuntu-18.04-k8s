@@ -2,3 +2,4 @@ packer_cache/
 /output*
 .DS_Store
 sample_code.json
+packerlog.txt
