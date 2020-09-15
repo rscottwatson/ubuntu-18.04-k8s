@@ -17,3 +17,4 @@ cat > /etc/docker/daemon.json <<EOF
 }
 EOF
 
+usermod -aG docker k8s
