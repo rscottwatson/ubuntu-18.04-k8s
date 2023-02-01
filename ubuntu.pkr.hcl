@@ -194,6 +194,7 @@ build {
       "./scripts/add_staticip.sh",
       "./scripts/install_guestadditions.sh",
       "./scripts/install_docker.sh",
+      "./scripts/add_k8s_dependencies.sh"
       "./scripts/update_system.sh",
     ]
   }
